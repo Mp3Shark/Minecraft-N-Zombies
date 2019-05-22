@@ -1,2 +1,2 @@
-# Minecraft-N-Zombies
-Required for use of N-Zombies
+# Minecraft-M-Zombies
+Required for use of M-Zombies
